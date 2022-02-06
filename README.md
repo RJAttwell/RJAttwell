@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+I graduated in Aerospace Engineering but have fell in love with the world of programming. I'm currently learning web development and my ultimate goal is to become a full stack developer.
+
+🌱 I’m currently learning:
+ - HTML
+ - CSS
+ - Javascript
+ - Bootstrap
+
+📫 How to reach me:
+ - Email: RichardJAttwell@gmail.com
+ - LinkedIn
+
+
+
+
 <!--
 **RJAttwell/RJAttwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
