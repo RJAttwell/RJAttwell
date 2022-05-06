@@ -3,10 +3,10 @@
 I graduated in Aerospace Engineering but have fell in love with the world of programming. I'm currently learning web development and my ultimate goal is to become a full stack developer.
 
 🌱 I’m currently learning:
- - HTML
+ - React
  - CSS
  - Javascript
- - Bootstrap
+ - JQuery
 
 📫 How to reach me:
  - Email: RichardJAttwell@gmail.com
