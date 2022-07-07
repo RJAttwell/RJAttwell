@@ -4,14 +4,20 @@ I graduated in Aerospace Engineering but have fell in love with the world of pro
 
 🌱 I’m currently learning:
  - React
- - CSS
+ - Git
  - Javascript
  - JQuery
+ - Express.js with Node.js
 
 📫 How to reach me:
  - Email: RichardJAttwell@gmail.com
  - LinkedIn
  - Website: https://rjattwell.github.io/Portfolio-Website/
+ 
+🔭 I’m currently working on:
+- GameRank website project 
+- Improving and adding new features to portfolio website
+ 
 
 
 
