@@ -7,7 +7,7 @@ I graduated in Aerospace Engineering but have fell in love with the world of pro
  - Git
  - Javascript
  - JQuery
- - Express.js with Node.js
+ - APIs
 
 📫 How to reach me:
  - Email: RichardJAttwell@gmail.com
