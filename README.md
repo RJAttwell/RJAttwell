@@ -16,7 +16,6 @@ I graduated in Aerospace Engineering but have fell in love with the world of pro
  
 🔭 I’m currently working on:
 - GameRank website project 
-- Project with another developer
 - Improving and adding new features to portfolio website
  
 
