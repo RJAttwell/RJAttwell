@@ -6,7 +6,7 @@ I graduated in Aerospace Engineering but have fell in love with the world of pro
  - React
  - Git
  - Javascript
- - JQuery
+ - Databases
  - APIs
 
 📫 How to reach me:
