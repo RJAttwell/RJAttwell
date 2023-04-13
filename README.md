@@ -4,10 +4,8 @@ I graduated in Aerospace Engineering but have fell in love with the world of pro
 
 🌱 I’m currently learning:
  - React
- - Authentication
  - Javascript
  - Databases
- - APIs
 
 📫 How to reach me:
  - Email: RichardJAttwell@gmail.com
