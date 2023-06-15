@@ -15,12 +15,7 @@ I graduated in Aerospace Engineering but have fell in love with the world of pro
 🔭 I’m currently working on:
 - GameRank website project 
 - ClassPal Front End
-- Football Bar/Pub Locator website
-- Improving and adding new features to portfolio website
- 
-
-
-
+- Football Bar/Pub Locator website 
 
 <!--
 **RJAttwell/RJAttwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
