@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I graduated in Aerospace Engineering but have fell in love with the world of programming. I'm currently learning web development and my ultimate goal is to become a full stack developer.
+I graduated in Aerospace Engineering but have fell in love with the world of programming. I'm currently learning web development and my ultimate goal is to become a full stack developer. I am currently open to new opportunities. My resume can be found here: https://richardattwellresume.tiiny.site/
 
 🌱 I’m currently learning:
  - React
